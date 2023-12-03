@@ -13,8 +13,12 @@ int main()
 	if (doubleA > doubleB)
 	{
 		printf("\nliczba A jest wiêksza: %lf", doubleA);
-
 	}
+	else if (doubleA == doubleB)
+	{
+		printf("\nliczy sa takie same");
+	}
+
 	else
 	{
 		printf("\nliczba B jest wiêksza: %lf", doubleB);
