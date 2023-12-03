@@ -7,7 +7,6 @@ int main()
 	double liczba3;
 	double liczba4;
 	double suma;
-if()
 	printf("podaj liczbe 1; ");
 	scanf("%lf", &liczba1);
 
